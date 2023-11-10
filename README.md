@@ -1,7 +1,7 @@
 # Chapter-14-Techniques-for-Detecting-Outliers-Anomalies-and-Behavioral-Changes
 Techniques for Detecting Outliers, Anomalies and Behavioral Changes
 
-- Global CO₂ Emissions Dataset: https://data.mendeley.com/datasets/smypp8574h/1
+- Global CO₂ Emissions Dataset: https://data.mendeley.com/datasets/7fggkfp2h2/1
 
 - Fraud Detection using Peer-Group Analysis Dataset: https://data.mendeley.com/datasets/yc8mbfy3rt/1
 
